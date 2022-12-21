@@ -24,6 +24,7 @@ The procedure is that you send a message to the server and the server sends the 
 
 ![image](https://github.com/Ali-Roodi79/Socket-programming-asynchronous-client-and-server/blob/main/assets/Send%26ReceiveMessage.png)
 
+---
 
 - The process of sending and receiving messages is all done on the basis of **socket programming** and completely **asynchronously**.
 
